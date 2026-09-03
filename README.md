@@ -8,7 +8,7 @@ application source code.
 
 ## Download
 
-Download the latest disk image from [Releases](../../releases), drag
+Download the latest disk image from [Releases](https://github.com/saran-penna/ripple-releases/releases), drag
 **Ripple.app** into `/Applications`, and open it.
 
 The current 0.4.0 build is a public preview signed with an Apple Development
